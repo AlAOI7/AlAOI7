@@ -8,7 +8,6 @@ With a strong foundation in HTML, CSS, JavaScript, and various frameworks, I am 
 high-quality solutions that enhance user experience and drive engagement.
 
 #### Experience
-- Developed responsive web applications using React and Node.js.
 - Collaborated with cross-functional teams to define, design, and ship new features.
 - Optimized applications for maximum speed and scalability.
 - Implemented RESTful APIs and integrated third-party services.
