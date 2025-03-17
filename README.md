@@ -2,24 +2,19 @@
 <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer | Turning complex ideas into scalable, seamless web experiences</h3>
     
-    <p align="center" dir="auto">
-        I am a Full Stack Web Developer utilizing the Laravel framework for building web applications. 
-        I excel at transforming complex concepts into user-friendly, scalable web applications. 
-        With a strong foundation in HTML, CSS, JavaScript, and various frameworks, I am committed to delivering 
-        high-quality solutions that enhance user experience and drive engagement.
-    </p>
+   I am a Full Stack Web Developer utilizing the Laravel framework for building web applications. 
+I excel at transforming complex concepts into user-friendly, scalable web applications. 
+With a strong foundation in HTML, CSS, JavaScript, and various frameworks, I am committed to delivering 
+high-quality solutions that enhance user experience and drive engagement.
 
-    <h4 align="center" class="heading-element" dir="auto">Experience</h4>
-    <ul dir="auto">
-        <li>Developed responsive web applications using React and Node.js.</li>
-        <li>Collaborated with cross-functional teams to define, design, and ship new features.</li>
-        <li>Optimized applications for maximum speed and scalability.</li>
-        <li>Implemented RESTful APIs and integrated third-party services.</li>
-        <li>Maintained and improved existing codebases, ensuring compliance with best practices.</li>
-    </ul>
-</div>
+#### Experience
+- Developed responsive web applications using React and Node.js.
+- Collaborated with cross-functional teams to define, design, and ship new features.
+- Optimized applications for maximum speed and scalability.
+- Implemented RESTful APIs and integrated third-party services.
+- Maintained and improved existing codebases, ensuring compliance with best practices.
 
-
+        
 
   
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
