@@ -126,7 +126,8 @@ high-quality solutions that enhance user experience and drive engagement.
         <img src="https://img.shields.io/badge/wordpress-%234165E8.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%;">
     </a>
     
-
+   <p align="center" dir="auto">
+    <!-- New badges for web languages and tools -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="max-width: 100%;">
     </a>
@@ -145,8 +146,10 @@ high-quality solutions that enhance user experience and drive engagement.
     <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
     </a>
+</p>
 
-   
+<p align="center" dir="auto">
+    <!-- Existing Adobe Tools -->
     <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20photoshop-%23D83C36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="max-width: 100%;">
     </a>
@@ -163,3 +166,6 @@ high-quality solutions that enhance user experience and drive engagement.
         <img src="https://img.shields.io/badge/adobe%20after%20effects-%23A10000.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" style="max-width: 100%;">
     </a>
 </p>
+
+</p>
+
