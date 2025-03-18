@@ -97,6 +97,8 @@ high-quality solutions that enhance user experience and drive engagement.
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a>
 
 </p>
+
+
 <div class="markdown-heading" dir="auto">
     <h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2>
     <a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools">
@@ -107,6 +109,7 @@ high-quality solutions that enhance user experience and drive engagement.
 </div>
 <br>
 <p align="center" dir="auto">
+    <!-- Existing badges -->
     <a href="https://git-scm.com/" title="Git" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
     </a>
@@ -122,6 +125,28 @@ high-quality solutions that enhance user experience and drive engagement.
     <a href="https://wordpress.org/" title="WordPress" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/wordpress-%234165E8.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%;">
     </a>
+    
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="max-width: 100%;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="max-width: 100%;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
+    </a>
+    <a href="https://jquery.com/" title="jQuery" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" style="max-width: 100%;">
+    </a>
+    <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7F.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+    </a>
+    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
+    </a>
+
+   
     <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20photoshop-%23D83C36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="max-width: 100%;">
     </a>
