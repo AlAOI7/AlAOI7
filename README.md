@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ala alshoga</h1>
+<h1 align="center">Hi 👋, I'm Ala alshuga</h1>
 <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer | Turning complex ideas into scalable, seamless web experiences</h3>
     
